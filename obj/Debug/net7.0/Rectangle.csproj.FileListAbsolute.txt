@@ -1,0 +1,15 @@
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/bin/Debug/net7.0/Rectangle
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/bin/Debug/net7.0/Rectangle.deps.json
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/bin/Debug/net7.0/Rectangle.runtimeconfig.json
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/bin/Debug/net7.0/Rectangle.dll
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/bin/Debug/net7.0/Rectangle.pdb
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.csproj.AssemblyReference.cache
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.AssemblyInfoInputs.cache
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.AssemblyInfo.cs
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.csproj.CoreCompileInputs.cache
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.dll
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/refint/Rectangle.dll
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.pdb
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/Rectangle.genruntimeconfig.cache
+/Users/bwhitfield/Desktop/assignments/c# stuff/practice/Rectangle/obj/Debug/net7.0/ref/Rectangle.dll
